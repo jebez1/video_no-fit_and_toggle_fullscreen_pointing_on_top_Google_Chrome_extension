@@ -1,1 +1,0 @@
-# video_no-fit_and_toggle_fullscreen_pointing_on_top_Google_Chrome_extension
