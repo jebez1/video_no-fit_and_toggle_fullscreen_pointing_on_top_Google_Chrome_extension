@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"video no-fit & toggle fullscreen pointing on top","version":"1","content_scripts":[{"css":["!.css"],"js":["!.js"],"matches":["<all_urls>"],"all_frames":true}]}
